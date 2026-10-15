@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Language uuid="1db1306f-caaf-4a9c-aa1d-978902ec3b19"><ns0:InternalInfo /><ns0:Properties>
+<ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>Русский</ns0:Name><ns0:Comment />
+<ns0:ExtendedConfigurationObject>2c7fb663-11bf-4edc-b036-4e861fef613c</ns0:ExtendedConfigurationObject><ns0:LanguageCode>ru</ns0:LanguageCode>
+</ns0:Properties></ns0:Language></ns0:MetaDataObject>

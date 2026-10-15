@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Catalog uuid="3ebab8c2-260f-4b45-809b-a55812592266"><ns0:InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Валюты" category="Object">
+				<xr:TypeId>abb6bd31-eb63-5bbe-bcb5-5e5663044e4c</xr:TypeId>
+				<xr:ValueId>4eafcb7c-a4d4-54a8-a377-26284100be94</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Валюты" category="Ref">
+				<xr:TypeId>d55cefe5-045c-5f37-8348-c5edbc4ddfbf</xr:TypeId>
+				<xr:ValueId>9aa392d7-ece0-5d76-b833-49c7e7bf59e3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Валюты" category="Selection">
+				<xr:TypeId>d13c5359-738a-5297-93ad-275f6fdfbe1c</xr:TypeId>
+				<xr:ValueId>c20e065b-d700-5764-a0e5-514df2714c19</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Валюты" category="List">
+				<xr:TypeId>93f8cfd0-29ef-530f-b25b-e0680a6ff56d</xr:TypeId>
+				<xr:ValueId>1d8481aa-374d-5d5e-8ca6-6330f1fa9cb0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Валюты" category="Manager">
+				<xr:TypeId>edbc8b37-b8ef-544c-9e85-2e536d0a7902</xr:TypeId>
+				<xr:ValueId>f0179546-59b6-5a94-9cb1-14253d20d618</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>Валюты</ns0:Name><ns0:ExtendedConfigurationObject>0ffdeda5-e69f-46be-a289-5e3b24689e3d</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Catalog></ns0:MetaDataObject>

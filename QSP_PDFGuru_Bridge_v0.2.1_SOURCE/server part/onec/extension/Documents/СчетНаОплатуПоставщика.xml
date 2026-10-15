@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Document uuid="27e4029a-6075-4ca5-8ffb-867d8b82eeea"><ns0:InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СчетНаОплатуПоставщика" category="Object">
+				<xr:TypeId>21cc6359-807e-5ad9-8076-a391115a1ce6</xr:TypeId>
+				<xr:ValueId>80c778e5-41fc-5bbe-adf0-fe294874e347</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СчетНаОплатуПоставщика" category="Ref">
+				<xr:TypeId>3831fac7-370e-5f9a-afad-3d5c34c5ab6a</xr:TypeId>
+				<xr:ValueId>9e52708f-2320-515f-8d34-dfd351232387</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СчетНаОплатуПоставщика" category="Selection">
+				<xr:TypeId>5d77bbde-6abc-58df-8ead-7034a7b9696a</xr:TypeId>
+				<xr:ValueId>acf6bb7e-e943-580b-84e2-5a43ed6ba663</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СчетНаОплатуПоставщика" category="List">
+				<xr:TypeId>bd3121b0-9427-5bd5-9f86-eb4d888e5745</xr:TypeId>
+				<xr:ValueId>7700c6a0-3182-5f08-b372-4bfb30a641fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СчетНаОплатуПоставщика" category="Manager">
+				<xr:TypeId>6f4b664b-c1f5-5d06-a500-86539ac08c28</xr:TypeId>
+				<xr:ValueId>bd99a888-557f-541f-b584-32b3f31505f4</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>СчетНаОплатуПоставщика</ns0:Name><ns0:ExtendedConfigurationObject>f8f416c3-8f99-42ac-81cd-316e389ef3b6</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Document></ns0:MetaDataObject>

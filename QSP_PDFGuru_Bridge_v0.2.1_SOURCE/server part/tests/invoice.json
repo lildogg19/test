@@ -1,0 +1,21 @@
+{
+  "document_type": "Счёт на оплату",
+  "supplier": {"name": "Тестовый поставщик", "bin": "123456789012"},
+  "buyer": {"name": "Тестовый покупатель", "bin": "987654321098"},
+  "number": "107",
+  "date": "2026-09-21",
+  "currency": "KZT",
+  "warehouse": null,
+  "responsible_person": null,
+  "total_quantity": null,
+  "subtotal": null,
+  "vat": null,
+  "total": 35200,
+  "amount_in_words": null,
+  "vat_mode": "without_vat",
+  "observed_item_count": 1,
+  "items": [{"line_no": "1", "name": "Набор прокладок 120-4,00", "sku": null,
+             "unit": "шт", "quantity": 11, "price": 3200, "amount": 35200,
+             "vat_rate": null, "vat_amount": null}],
+  "uncertainties": []
+}

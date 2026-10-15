@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Catalog uuid="519b621b-72a7-49f4-adc2-36ec0cd8625b"><ns0:InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СтавкиНДС" category="Object">
+				<xr:TypeId>d8b9b13b-85bb-5dd0-b1bf-61a09688b16a</xr:TypeId>
+				<xr:ValueId>887dee56-2bca-5c62-ab67-ed0b6d8908e5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СтавкиНДС" category="Ref">
+				<xr:TypeId>21a03213-83c2-51e4-b59b-fb0b5509d062</xr:TypeId>
+				<xr:ValueId>1cd86b09-9c8f-588e-b04b-816fef88c7cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СтавкиНДС" category="Selection">
+				<xr:TypeId>7615bab5-010e-56ad-a88d-59b9af1a8ea7</xr:TypeId>
+				<xr:ValueId>edf6c0fc-1859-5be6-b733-7155e2db2521</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СтавкиНДС" category="List">
+				<xr:TypeId>b9b8671b-2c41-5cee-b931-f29e6f2cf316</xr:TypeId>
+				<xr:ValueId>b345dca9-7a6a-5ba5-b7eb-c816b684a5db</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СтавкиНДС" category="Manager">
+				<xr:TypeId>650c232a-650e-5b25-8da7-ffd8020cf7fd</xr:TypeId>
+				<xr:ValueId>f865a58b-b61b-5930-9319-c826496fb1e8</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>СтавкиНДС</ns0:Name><ns0:ExtendedConfigurationObject>55c81b2e-c754-4bde-8424-35272dcbcb6d</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Catalog></ns0:MetaDataObject>

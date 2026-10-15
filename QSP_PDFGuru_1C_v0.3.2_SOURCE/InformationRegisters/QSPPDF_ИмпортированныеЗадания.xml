@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:InformationRegister uuid="7aba9ce4-2dc0-41ea-8826-0fe51bc557ff"><ns0:InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.QSPPDF_ИмпортированныеЗадания" category="Record">
+				<xr:TypeId>2e16203e-9192-53ad-af0f-4eab705ea330</xr:TypeId>
+				<xr:ValueId>6a01e4e7-c7b8-54db-8100-1c9ce38a530d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.QSPPDF_ИмпортированныеЗадания" category="Manager">
+				<xr:TypeId>6d24f3d1-b930-555d-b704-45912c9034fc</xr:TypeId>
+				<xr:ValueId>d57b5471-0154-5dc2-a958-c9ee63ce1bed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.QSPPDF_ИмпортированныеЗадания" category="Selection">
+				<xr:TypeId>3f175f55-e367-5676-8154-0c31394e369f</xr:TypeId>
+				<xr:ValueId>70d7a3d3-5250-5afe-a67c-6e263875deb2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.QSPPDF_ИмпортированныеЗадания" category="List">
+				<xr:TypeId>87a55e49-abfc-5c7f-963b-f6400af5990b</xr:TypeId>
+				<xr:ValueId>8cde5b13-f653-5c69-9a38-3ff082c4336e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.QSPPDF_ИмпортированныеЗадания" category="RecordSet">
+				<xr:TypeId>4405cf58-c0ae-52b0-995b-2bfe71640f39</xr:TypeId>
+				<xr:ValueId>2f758df3-57d8-5f09-8a24-b0569a2894ec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.QSPPDF_ИмпортированныеЗадания" category="RecordKey">
+				<xr:TypeId>0b5f7199-32bc-51ee-8e25-bdbaa114f74e</xr:TypeId>
+				<xr:ValueId>33a6e9d6-1df1-5b7f-868a-5804d575c15c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.QSPPDF_ИмпортированныеЗадания" category="RecordManager">
+				<xr:TypeId>3b26d7a0-082b-5cda-a5ef-dadffe92c4f7</xr:TypeId>
+				<xr:ValueId>5cadf494-bc18-5994-9a7f-1cd9102bf9de</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:Name>QSPPDF_ИмпортированныеЗадания</ns0:Name><ns0:Synonym><v8:item><v8:lang>ru</v8:lang><v8:content>QSP PDF Guru · ИмпортированныеЗадания</v8:content></v8:item></ns0:Synonym><ns0:Comment>QSP PDF Guru Bridge 0.1.0</ns0:Comment><ns0:InformationRegisterPeriodicity>Nonperiodical</ns0:InformationRegisterPeriodicity><ns0:WriteMode>Independent</ns0:WriteMode><ns0:MainFilterOnPeriod>false</ns0:MainFilterOnPeriod></ns0:Properties><ns0:ChildObjects><ns0:Dimension uuid="49f172ac-fac3-480f-b9e8-ec69b00362af"><ns0:Properties><ns0:Name>Задание</ns0:Name><ns0:Synonym><v8:item><v8:lang>ru</v8:lang><v8:content>Задание</v8:content></v8:item></ns0:Synonym><ns0:Type><v8:Type>xs:string</v8:Type><v8:StringQualifiers><v8:Length>32</v8:Length><v8:AllowedLength>Variable</v8:AllowedLength></v8:StringQualifiers></ns0:Type><ns0:Master>false</ns0:Master><ns0:MainFilter>true</ns0:MainFilter><ns0:DenyIncompleteValues>true</ns0:DenyIncompleteValues></ns0:Properties></ns0:Dimension><ns0:Resource uuid="3aff6d78-d102-48b8-8a5d-835f810d3db8"><ns0:Properties><ns0:Name>Документ</ns0:Name><ns0:Synonym><v8:item><v8:lang>ru</v8:lang><v8:content>Документ</v8:content></v8:item></ns0:Synonym><ns0:Type><v8:Type>cfg:DocumentRef.СчетНаОплатуПоставщика</v8:Type></ns0:Type></ns0:Properties></ns0:Resource></ns0:ChildObjects></ns0:InformationRegister></ns0:MetaDataObject>

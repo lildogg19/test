@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Catalog uuid="33bc571b-39ba-4808-9e9b-3e05471a668a"><ns0:InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Организации" category="Object">
+				<xr:TypeId>0ca6a1c7-1f04-5fa9-9e60-5fdf8cce8412</xr:TypeId>
+				<xr:ValueId>172816ef-3d39-5f4f-a357-d29571994a39</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Организации" category="Ref">
+				<xr:TypeId>d33843a0-0adf-5083-b283-c8947a45bb4e</xr:TypeId>
+				<xr:ValueId>681d7dd1-d568-5d21-a9cc-43b371107311</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Организации" category="Selection">
+				<xr:TypeId>f754fcbd-4d14-553e-8b62-9c37d53e78ff</xr:TypeId>
+				<xr:ValueId>f6eb0672-86ee-52b8-8228-5365aff11ec7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Организации" category="List">
+				<xr:TypeId>c1b2cbe5-9c4c-5566-aede-b2640599851d</xr:TypeId>
+				<xr:ValueId>c71f93f3-e36a-5415-bbce-351ee238af60</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Организации" category="Manager">
+				<xr:TypeId>0545e736-519b-5a1c-90f0-1409480b4878</xr:TypeId>
+				<xr:ValueId>a9e10de9-2055-51f3-8782-a147b38fb9ce</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>Организации</ns0:Name><ns0:ExtendedConfigurationObject>382bbe17-739e-4149-b15b-d5ac11829f24</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Catalog></ns0:MetaDataObject>

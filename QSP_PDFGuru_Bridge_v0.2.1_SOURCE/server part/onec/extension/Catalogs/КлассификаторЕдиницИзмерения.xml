@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Catalog uuid="1fe8c23a-9e34-432d-8615-e41f085f1820"><ns0:InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторЕдиницИзмерения" category="Object">
+				<xr:TypeId>7631a486-9371-5424-b45e-449574c0c386</xr:TypeId>
+				<xr:ValueId>f360bdf7-2f1f-5ffb-8f28-32474076ad22</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторЕдиницИзмерения" category="Ref">
+				<xr:TypeId>62057450-d72c-5671-8363-b8f59245fc80</xr:TypeId>
+				<xr:ValueId>0a468bd4-3630-56a9-86ce-4934b07eeb40</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторЕдиницИзмерения" category="Selection">
+				<xr:TypeId>94753be1-17ba-5b24-a980-b0900ab0ac57</xr:TypeId>
+				<xr:ValueId>6d11aa0b-3447-5c8c-953e-723335574928</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторЕдиницИзмерения" category="List">
+				<xr:TypeId>f2a80c42-1fd6-5f42-bb71-2f6f8bb8450d</xr:TypeId>
+				<xr:ValueId>5f074176-4e5c-57b2-b98b-955d9323b911</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторЕдиницИзмерения" category="Manager">
+				<xr:TypeId>f53abd37-991c-5387-b322-b9b1f3c42040</xr:TypeId>
+				<xr:ValueId>9f3b8c2c-a516-53f8-9414-508a38511e8b</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>КлассификаторЕдиницИзмерения</ns0:Name><ns0:ExtendedConfigurationObject>f797acfe-12ea-4cb2-b7dc-76d3e8eb39e3</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Catalog></ns0:MetaDataObject>

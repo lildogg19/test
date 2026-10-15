@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Catalog uuid="89a68091-5d99-4cfa-ab1d-928a3a3dcdf1"><ns0:InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДоговорыКонтрагентов" category="Object">
+				<xr:TypeId>8c6dd4e9-2da6-5e81-ac26-394beb12fb95</xr:TypeId>
+				<xr:ValueId>e10c8123-a87e-56c7-9ff0-7598e2af788e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДоговорыКонтрагентов" category="Ref">
+				<xr:TypeId>48fd7d18-6cf0-5431-845c-c6975e96b3b9</xr:TypeId>
+				<xr:ValueId>3df58d90-604a-5bf7-92fd-2e9146ab075d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДоговорыКонтрагентов" category="Selection">
+				<xr:TypeId>ca7c08f0-6d76-5ff1-b386-a3bf00a56b90</xr:TypeId>
+				<xr:ValueId>25372aaa-1b7b-59dc-8e65-a07f2bed1836</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДоговорыКонтрагентов" category="List">
+				<xr:TypeId>faa48cd0-dd29-5fd8-9f53-b5da1e79565f</xr:TypeId>
+				<xr:ValueId>4e7b4651-def5-5e46-8e29-48a83c512287</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДоговорыКонтрагентов" category="Manager">
+				<xr:TypeId>605b8052-9474-5a45-8f3e-b2ee971fb171</xr:TypeId>
+				<xr:ValueId>5c4eb1fe-b5a6-536b-9cbe-f07cd65841b5</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>ДоговорыКонтрагентов</ns0:Name><ns0:ExtendedConfigurationObject>72c5c653-8725-4d79-a27a-a9d09e650e38</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Catalog></ns0:MetaDataObject>

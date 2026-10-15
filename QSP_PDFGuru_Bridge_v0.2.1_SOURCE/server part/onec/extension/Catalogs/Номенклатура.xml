@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MetaDataObject xmlns:ns0="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" version="2.16"><ns0:Catalog uuid="270692e0-d6ee-4616-8a47-f9e5fe20f26f"><ns0:InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Номенклатура" category="Object">
+				<xr:TypeId>a1c49bd8-9048-56d2-8ed9-68213a374cb1</xr:TypeId>
+				<xr:ValueId>61d95d8f-0ece-5d91-8d9d-2b7ee582dd6f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Номенклатура" category="Ref">
+				<xr:TypeId>710c503c-bfbe-5703-b533-6c175425e09c</xr:TypeId>
+				<xr:ValueId>1ccc8a82-2835-543d-8b48-38b2aadc0c54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Номенклатура" category="Selection">
+				<xr:TypeId>cc7575e2-1107-5a67-9c77-cf2233210b7d</xr:TypeId>
+				<xr:ValueId>3a2b7425-c076-5d24-994e-01208312eee4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Номенклатура" category="List">
+				<xr:TypeId>b2f59c8f-b68a-50e2-b603-c457b52205af</xr:TypeId>
+				<xr:ValueId>4aeb3435-2de1-5904-ab44-2d4d04fdb4bc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Номенклатура" category="Manager">
+				<xr:TypeId>104fb418-c003-58d8-9f71-60765d0b0291</xr:TypeId>
+				<xr:ValueId>bdf87c54-6fd7-5c88-b99f-b5f6b43dc6bd</xr:ValueId>
+			</xr:GeneratedType>
+		</ns0:InternalInfo>
+		<ns0:Properties><ns0:ObjectBelonging>Adopted</ns0:ObjectBelonging><ns0:Name>Номенклатура</ns0:Name><ns0:ExtendedConfigurationObject>0f977d44-f46f-4c8b-a600-c1660918e140</ns0:ExtendedConfigurationObject></ns0:Properties><ns0:ChildObjects /></ns0:Catalog></ns0:MetaDataObject>
